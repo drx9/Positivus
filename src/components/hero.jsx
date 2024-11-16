@@ -3,7 +3,7 @@ import Image from '../assets/Illustration.svg';
 
 function Hero() {
   return (
-    <section className="relative will-change-scroll min-h-screen md:h-screen flex justify-center items-center -mt-24 pt-72   md:pt-28">
+    <section className="relative will-change-scroll min-h-screen md:h-screen flex justify-center items-center   md:pt-28">
       <div className="flex flex-col md:flex-row items-center gap-8 max-w-6xl mx-8 md:mx-16 xl:mx-32">
         <div className="max-w-2xl px-4 flex flex-col gap-8">
           <h1 className="text-4xl md:text-6xl xl:text-7xl font-spacegrotesk">
